@@ -41,7 +41,13 @@ button:hover{
 }
 
 img{
-    margin: 0 auto;
-    width: 300px;
+  display: block;
+  margin: 0 auto;
+}
+button img{
+    width: 40px;
     height: auto;
+}
+li{
+    margin-bottom: 10px;
 }
